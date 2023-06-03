@@ -1,0 +1,47 @@
+Decision making:
+	1. Robot and competitions participation related (technical):
+		Kids will make decisions with consensus.
+		In the absense of consensus majority with veto power to minority.
+		Adults/coaches can only ask guiding questions :).
+	2. Non tech decisions:
+		Parents with consensus. If no consensus, majority with veto power to minority.
+	3. Team composition decisions:
+		Both parents and kids with consensus. In the absense of consensus, majority with veto power to minority.
+		
+Work assignments:
+
+Kids:
+1. Setup (One time)
+	a. Laoptop/tablet to code and use (no need to have a dedicated one just for robotics)
+	b. Minimal electric kit: 
+		i. (Hex screw driver/allen keys etc
+		ii. Anti static gloves/protective goggles (if no specs ) 
+		- looks like static is a big issue and keeps frying vex vrc brains
+	c. Accounts (free):
+		i. Github (github.com)
+		ii. Trello (https://trello.com/w/infinity2324/home)/another options is Asana (Let's chat more whether we need a time tracker/PM app)
+		iii. Cad software (autodesk.com/products/fusion360 Please get a student account)
+		iv. Social media presense (?? A couple of videos over the season on youtube seems about right)
+2. Ongoing:
+	a. Be present for regular building/practice
+	b. Contribute to planning and building
+	c. Contribute to engineering book
+	d. Work on your planned activity
+	e. Be kind and have fun!
+
+Parents/coaches:
+1. Setup (one time):
+	a. Get kids to setup required accounts
+	b. Ensure that they have the required devices
+	c. Setup splitwise account (splitwise.com/splitwise app)
+2. Ongoing:
+	a. Time/coaching commitments (in round robin):
+		(It helps if there is an adult watching over them to guide them/resolve conflicts/keep focus)
+	b. Snacks/food:
+		A well fed student is a productive student :).
+		It is possible that kids may work through a day/late in the night. Lunch/dinner needs to be pre-arranged.
+		(We have observed that it is easier if we plan for this)
+	c. Tournament tracking and booking
+	d. (For each tournament) Plan and arrange for travel/stay as required
+	e. Check splitwise balances
+
